@@ -21,4 +21,3 @@ module.exports = function (opts) {
 
     return through.obj(rebase);
 };
-

@@ -1,5 +1,8 @@
-gulp-base64
-===========
+# gulp-base64 -> gulp-base64-updated2
+
+# This is a Fork from https://github.com/Wenqer/gulp-base64 it was made and published to NPM from the lack of response to security audits from the repo. Once the security audits are resolved if ever this repo will be removed.
+
+# The new npm package is `gulp-base64-updated2`
 
 Gulp task for converting all files found within a stylesheet (those within a url( ... ) declaration) into base64-encoded data URI strings.
 
@@ -8,7 +11,7 @@ Gulp task for converting all files found within a stylesheet (those within a url
 Install with [npm](https://npmjs.org)
 
 ```
-npm install gulp-base64 --save-dev
+npm install gulp-base64-updated2 --save-dev
 ```
 
 ## Example usage

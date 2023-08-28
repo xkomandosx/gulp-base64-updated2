@@ -1,6 +1,9 @@
 # gulp-base64 -> gulp-base64-updated2
 
 # This is a Fork from https://github.com/Wenqer/gulp-base64 it was made and published to NPM from the lack of response to security audits from the repo. Once the security audits are resolved if ever this repo will be removed.
+# The biggest change: replaced "request" with "axios"
+
+
 
 # The new npm package is `gulp-base64-updated2`
 
@@ -17,7 +20,7 @@ npm install gulp-base64-updated2 --save-dev
 ## Example usage
 ```js
 var gulp = require('gulp');
-var base64 = require('./build/gulp-base64');
+var base64 = require('gulp-base64-updated2');
 
 //basic example
 gulp.task('build', function () {

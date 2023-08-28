@@ -1,6 +1,6 @@
 {
   "name": "gulp-base64-updated2",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "A fork from gulp-base64 from lack of response to security updates gulp task to encode images to data URI",
   "main": "index.js",
   "homepage": "https://github.com/MichaelJGW/gulp-base64",
@@ -13,13 +13,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Yaroslav 2gis MichaelJGW",
+  "author": "Yaroslav 2gis MichaelJGW xkomandosx",
   "license": "MIT",
   "dependencies": {
-    "async": "~3.2.4",
+    "async": "~0.2.10",
     "buffers": "~0.1.1",
-    "mime": "^3.0.0",
+    "mime": "^2.4.4",
     "axios": "^1.5.0",
-    "through2": "~4.0.2"
+    "through2": "~0.4.1"
   }
 }

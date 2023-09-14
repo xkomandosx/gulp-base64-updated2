@@ -1,6 +1,6 @@
 {
   "name": "gulp-base64-updated2",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "A fork from gulp-base64 from lack of response to security updates gulp task to encode images to data URI",
   "main": "index.js",
   "homepage": "https://github.com/MichaelJGW/gulp-base64",

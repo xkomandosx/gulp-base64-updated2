@@ -4,7 +4,7 @@
   "description": "A fork from gulp-base64 from lack of response to security updates gulp task to encode images to data URI",
   "main": "index.js",
   "homepage": "https://github.com/MichaelJGW/gulp-base64",
-  "repository": "git://github.com/MichaelJGW/gulp-base64.git",
+  "repository": "git://github.com/xkomandosx/gulp-base64-updated2.git",
   "keywords": [
     "gulpplugin",
     "data-uri",
